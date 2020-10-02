@@ -2,7 +2,7 @@
 # Common Variables #
 ####################
 company     = "kopicloud"
-app_name    = "$[app-name]$"
+app_name    = "iac-test"
 environment = "$[environment]$"
 location    = "$[location]$"
 
